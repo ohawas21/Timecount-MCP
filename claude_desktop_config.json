@@ -1,0 +1,29 @@
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "npx",
+      "args": [
+        "@gongrzhe/server-gmail-autoauth-mcp", "C:\\Users\\tc\\Downloads\\gcp-oauth.keys.json.json"
+      ]
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "BSACjLe7OnzXgWlEICu0ejX3Ld4h7dJ"
+      }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\Admin\\MCP",
+        "C:\\Users\\Admin\\Documents\\Projects"
+      ]
+    }
+  }
+}
