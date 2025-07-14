@@ -1,0 +1,76 @@
+EMPLOYEE BIRTHDATES REPORT
+Generated on: July 7, 2025
+
+===============================================
+
+SUMMARY
+-------
+• Total Employees: 38
+• Employees with Birth Dates: 32 (84%)
+• Employees Missing Birth Dates: 6 (16%)
+
+===============================================
+
+EMPLOYEES WITH COMPLETE BIRTH DATE INFORMATION
+----------------------------------------------
+
+Name                    | Birth Date           | ZIP Code | Age (July 2025)
+--------------------|--------------------|---------|-----------
+Stefan Huberl           | September 5, 1988    | 83022    | 36
+Roman Möller           | December 20, 1991    | 83026    | 33
+Yvonne Schardt         | August 16, 1990      | 24401    | 34
+Sabine Schwarting      | June 25, 1987        | 83024    | 38
+Heinrich Hupp          | February 28, 1980    | 28757    | 45
+Anita Spaniol          | December 7, 1987     | 71711    | 37
+Vreneli Rausch         | August 11, 1980      | 33824    | 44
+Otmar Nash             | March 8, 1995        | 25377    | 30
+Martina Auer           | April 15, 1989       | 74861    | 36
+Otfried Marks          | October 10, 1984     | 83342    | 40
+Bernd Kusche           | December 22, 1987    | 55627    | 37
+Katharina Grohe        | August 10, 1985      | 84561    | 39
+Friedrich Pfalzgraf    | October 9, 1983      | 25899    | 41
+Wolfgang Kopplin       | April 19, 1980       | 60549    | 45
+Michael Schmitt        | April 10, 1985       | 83026    | 40
+Miriam Neumann         | April 29, 1992       | 80564    | 33
+Klaus Grüne            | February 28, 1983    | 56477    | 42
+Jakob Stange           | February 24, 1992    | 51588    | 33
+Andreas Ebert          | November 23, 1991    | 54783    | 33
+Daniela Zühlke         | January 20, 1999     | 58454    | 26
+Erich Lubitz           | January 7, 1981      | 54292    | 44
+Lisa Remy              | May 10, 1987         | 66500    | 38
+Eva Grams              | March 22, 1990       | 49626    | 35
+Elisabeth Dargel       | October 4, 1997      | 21271    | 27
+Siegfried Hellweg      | April 6, 1986        | 39124    | 39
+Ludwig Bienek          | September 6, 1985    | 56357    | 39
+Sybille Friebe         | May 17, 1996         | 27327    | 29
+Gudrun Levermann       | May 19, 1988         | 64289    | 37
+Daniel Greisner        | December 11, 1989    | 82541    | 35
+Heinrich Jarz          | February 7, 1989     | 83059    | 36
+
+===============================================
+
+EMPLOYEES MISSING BIRTH DATE INFORMATION
+----------------------------------------
+
+Name                    | Birth Date    | ZIP Code      | Notes
+--------------------|-------------|-------------|------------------
+Max Mustermann         | Not Available | Not Available | Appears 3 times in system
+Petro Titkov           | Not Available | Not Available | -
+TestVorname TestNachname| Not Available | Not Available | Test account
+Tassilo Faußner        | Not Available | 83022 (partial)| Appears twice - once with zipcode
+Melanie Maier          | Not Available | Not Available | -
+
+===============================================
+
+NOTES
+-----
+• This report was generated from the employee database system.
+• Some entries appear to be test accounts or placeholder data.
+• The "Max Mustermann" entry appears multiple times, suggesting duplicate records.
+• Ages are calculated as of July 2025.
+
+For questions or corrections, please contact the HR department.
+
+===============================================
+Report Generated: July 7, 2025
+System: Timecount Employee Database
